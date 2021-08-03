@@ -1,2 +1,2 @@
 # TweetStreamer
-Collect0 Tweets by Hashtags to PostgreSQL database
+Collect Tweets by Hashtags and save them in a PostgreSQL database
